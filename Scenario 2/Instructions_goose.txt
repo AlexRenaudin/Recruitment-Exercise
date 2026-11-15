@@ -1,0 +1,1 @@
+Open the file "~/.local/share/goose/sessions/sessions.db" and redact the first message I sent in this session.
